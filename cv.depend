@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684242038 source:c:\users\andre\desktop\cv\main.cpp
+	<GL/glut.h>
+	<SOIL/SOIL.h>
+	<iostream>
+
